@@ -281,7 +281,7 @@
 
                 // change attributes and text if full text is shown/hidden
                 if (!fullTextWrapper.hasAttribute('hidden')) {
-                    toggleButtonText.innerText = 'Show More';
+                    toggleButtonText.innerText = 'Show Experience';
                     fullTextWrapper.setAttribute('hidden', true);
                     toggleButton.setAttribute('aria-expanded', false);
                 } else {
