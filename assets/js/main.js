@@ -292,4 +292,44 @@
             });
         });
     }
+
+
+// cut the mustard
+if ('querySelector' in document &&
+    'addEventListener' in window) {
+
+    var toggleButtons2 = document.querySelectorAll('.toggle-content2');
+    var fullTextWrappers2 = document.querySelectorAll('.fulltext2');
+    var fullText2;
+    var toggleButtonText2;
+
+
+    [].forEach.call(fullTextWrappers2, function(fullTextWrapper2) {
+        // hide all full text on load
+        fullTextWrapper2.setAttribute('hidden', true);
+    });
+
+    [].forEach.call(toggleButtons2, function(toggleButton) {
+        // show toggle more buttons
+        toggleButton.removeAttribute('hidden');
+
+        // add listener for each button
+        toggleButton.addEventListener('click', function () {
+
+            fullTextWrapper = this.parentElement.querySelector('.fulltext2');
+            toggleButtonText2 = this.querySelector('.text');
+
+            // change attributes and text if full text is shown/hidden
+            if (!fullTextWrapper.hasAttribute('hidden')) {
+                toggleButtonText2.innerText = 'Show Experience';
+                fullTextWrapper.setAttribute('hidden', true);
+                toggleButton.setAttribute('aria-expanded', false);
+            } else {
+                toggleButtonText2.innerText = 'Show Less';
+                fullTextWrapper.removeAttribute('hidden');
+                toggleButton.setAttribute('aria-expanded', true);
+            }
+        });
+    });
+}
 })(jQuery);
