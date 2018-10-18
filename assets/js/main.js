@@ -256,8 +256,8 @@
     }
 
     (function($){
-        var initialContainer = $('.columns'),
-            columnItems = $('.columns li'),
+        var initialContainer = $('.columns1'),
+            columnItems = $('.columns1 li'),
             columns = null,
             column = 1; // account for initial column
         function updateColumns(){
@@ -271,11 +271,40 @@
         }
         function setupColumns(){
             columnItems.detach();
-            while (column++ < initialContainer.data('columns')){
+            while (column++ < initialContainer.data('columns1')){
                 initialContainer.clone().insertBefore(initialContainer);
                 column++;
             }
-            columns = $('.columns');
+            columns = $('.columns1');
+        }
+
+        $(function(){
+            setupColumns();
+            updateColumns();
+        });
+    })(jQuery);
+
+    (function($){
+        var initialContainer = $('.columns2'),
+            columnItems = $('.columns2 li'),
+            columns = null,
+            column = 1; // account for initial column
+        function updateColumns(){
+            column = 0;
+            columnItems.each(function(idx, el){
+                if (idx !== 0 && idx > (columnItems.length / columns.length) + (column * idx)){
+                    column += 1;
+                }
+                $(columns.get(column)).append(el);
+            });
+        }
+        function setupColumns(){
+            columnItems.detach();
+            while (column++ < initialContainer.data('columns2')){
+                initialContainer.clone().insertBefore(initialContainer);
+                column++;
+            }
+            columns = $('.columns2');
         }
 
         $(function(){

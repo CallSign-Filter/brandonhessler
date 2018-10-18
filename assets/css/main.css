@@ -73,7 +73,12 @@ input, select, textarea {
 }
 
 
-.columns{
+.columns1{
+	float: left;
+	position: relative;
+	margin-right: 20px;
+}
+.columns2{
 	float: left;
 	position: relative;
 	margin-right: 20px;
