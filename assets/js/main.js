@@ -366,7 +366,7 @@
 
         [].forEach.call(fullTextWrappers1, function(fullTextWrapper) {
             // hide all full text on load
-            fullTextWrapper.setAttribute('hidden', true);
+            fullTextWrapper.setAttribute('hidden', false);
         });
 
         [].forEach.call(toggleButtons1, function(toggleButton) {
