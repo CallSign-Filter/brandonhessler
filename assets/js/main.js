@@ -254,22 +254,23 @@
         });
 
     }
-// cut the mustard
+
+    //Show top experience
     if ('querySelector' in document &&
         'addEventListener' in window) {
 
-        var toggleButtons = document.querySelectorAll('.toggle-content');
-        var fullTextWrappers = document.querySelectorAll('.fulltext');
-        var fullText;
-        var toggleButtonText;
+        var toggleButtons0 = document.querySelectorAll('.toggle-content0');
+        var fullTextWrappers0 = document.querySelectorAll('.fulltext0');
+        var fullText0;
+        var toggleButtonText0;
 
 
-        [].forEach.call(fullTextWrappers, function(fullTextWrapper) {
+        [].forEach.call(fullTextWrappers0, function(fullTextWrapper) {
             // hide all full text on load
             fullTextWrapper.setAttribute('hidden', true);
         });
 
-        [].forEach.call(toggleButtons, function(toggleButton) {
+        [].forEach.call(toggleButtons0, function(toggleButton) {
             // show toggle more buttons
             toggleButton.removeAttribute('hidden');
 
@@ -277,15 +278,15 @@
             toggleButton.addEventListener('click', function () {
 
                 fullTextWrapper = this.parentElement.querySelector('.fulltext');
-                toggleButtonText = this.querySelector('.text');
+                toggleButtonText0 = this.querySelector('.text');
 
                 // change attributes and text if full text is shown/hidden
                 if (!fullTextWrapper.hasAttribute('hidden')) {
-                    toggleButtonText.innerText = 'Show Experience';
+                    toggleButtonText0.innerText = 'Full Story';
                     fullTextWrapper.setAttribute('hidden', true);
                     toggleButton.setAttribute('aria-expanded', false);
                 } else {
-                    toggleButtonText.innerText = 'Show Less';
+                    toggleButtonText0.innerText = 'Hide';
                     fullTextWrapper.removeAttribute('hidden');
                     toggleButton.setAttribute('aria-expanded', true);
                 }
@@ -295,6 +296,48 @@
 
 
 // cut the mustard
+    //Show 'Software experience'
+    if ('querySelector' in document &&
+        'addEventListener' in window) {
+
+        var toggleButtons1 = document.querySelectorAll('.toggle-content1');
+        var fullTextWrappers1 = document.querySelectorAll('.fulltext1');
+        var fullText1;
+        var toggleButtonText1;
+
+
+        [].forEach.call(fullTextWrappers1, function(fullTextWrapper) {
+            // hide all full text on load
+            fullTextWrapper.setAttribute('hidden', true);
+        });
+
+        [].forEach.call(toggleButtons1, function(toggleButton) {
+            // show toggle more buttons
+            toggleButton.removeAttribute('hidden');
+
+            // add listener for each button
+            toggleButton.addEventListener('click', function () {
+
+                fullTextWrapper = this.parentElement.querySelector('.fulltext1');
+                toggleButtonText1 = this.querySelector('.text');
+
+                // change attributes and text if full text is shown/hidden
+                if (!fullTextWrapper.hasAttribute('hidden')) {
+                    toggleButtonText1.innerText = 'Show Experience';
+                    fullTextWrapper.setAttribute('hidden', true);
+                    toggleButton.setAttribute('aria-expanded', false);
+                } else {
+                    toggleButtonText1.innerText = 'Show Less';
+                    fullTextWrapper.removeAttribute('hidden');
+                    toggleButton.setAttribute('aria-expanded', true);
+                }
+            });
+        });
+    }
+
+
+// cut the mustard
+    //Show 'Military Experience'
     if ('querySelector' in document &&
         'addEventListener' in window) {
 
@@ -333,6 +376,7 @@
         });
     }
 
+    //show 'Other Experience'
     if ('querySelector' in document &&
         'addEventListener' in window) {
 
@@ -370,4 +414,6 @@
             });
         });
     }
+
+
 })(jQuery);
