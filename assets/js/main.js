@@ -485,7 +485,7 @@
                     fullTextWrapper.setAttribute('hidden', true);
                     toggleButton.setAttribute('aria-expanded', false);
                 } else {
-                    toggleButtonText3.innerText = 'Hide Courses';
+                    toggleButtonText5.innerText = 'Hide Courses';
                     fullTextWrapper.removeAttribute('hidden');
                     toggleButton.setAttribute('aria-expanded', true);
                 }
