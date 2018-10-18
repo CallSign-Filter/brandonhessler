@@ -72,6 +72,13 @@ input, select, textarea {
 	appearance: none;
 }
 
+
+.columns{
+	float: left;
+	position: relative;
+	margin-right: 20px;
+}
+
 /* Basic */
 
 	@-ms-viewport {
