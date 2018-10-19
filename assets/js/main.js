@@ -255,6 +255,64 @@
 
     }
 
+    (function($){
+        var initialContainer = $('.columns1'),
+            columnItems = $('.columns1 li'),
+            columns = null,
+            column = 1; // account for initial column
+        function updateColumns(){
+            column = 0;
+            columnItems.each(function(idx, el){
+                if (idx !== 0 && idx > (columnItems.length / columns.length) + (column * idx)){
+                    column += 1;
+                }
+                $(columns.get(column)).append(el);
+            });
+        }
+        function setupColumns(){
+            columnItems.detach();
+            while (column++ < initialContainer.data('columns1')){
+                initialContainer.clone().insertBefore(initialContainer);
+                column++;
+            }
+            columns = $('.columns1');
+        }
+
+        $(function(){
+            setupColumns();
+            updateColumns();
+        });
+    })(jQuery);
+
+    (function($){
+        var initialContainer = $('.columns2'),
+            columnItems = $('.columns2 li'),
+            columns = null,
+            column = 1; // account for initial column
+        function updateColumns(){
+            column = 0;
+            columnItems.each(function(idx, el){
+                if (idx !== 0 && idx > (columnItems.length / columns.length) + (column * idx)){
+                    column += 1;
+                }
+                $(columns.get(column)).append(el);
+            });
+        }
+        function setupColumns(){
+            columnItems.detach();
+            while (column++ < initialContainer.data('columns2')){
+                initialContainer.clone().insertBefore(initialContainer);
+                column++;
+            }
+            columns = $('.columns2');
+        }
+
+        $(function(){
+            setupColumns();
+            updateColumns();
+        });
+    })(jQuery);
+
     //Show top experience
     if ('querySelector' in document &&
         'addEventListener' in window) {
@@ -308,7 +366,7 @@
 
         [].forEach.call(fullTextWrappers1, function(fullTextWrapper) {
             // hide all full text on load
-            fullTextWrapper.setAttribute('hidden', true);
+            fullTextWrapper.setAttribute('hidden', false);
         });
 
         [].forEach.call(toggleButtons1, function(toggleButton) {
@@ -415,5 +473,82 @@
         });
     }
 
+    //show 'Masters Courses'
+    if ('querySelector' in document &&
+        'addEventListener' in window) {
+
+        var toggleButtons4 = document.querySelectorAll('.toggle-content4');
+        var fullTextWrappers4 = document.querySelectorAll('.fulltext4');
+        var fullText4;
+        var toggleButtonText4;
+
+
+        [].forEach.call(fullTextWrappers4, function(fullTextWrapper4) {
+            // hide all full text on load
+            fullTextWrapper4.setAttribute('hidden', true);
+        });
+
+        [].forEach.call(toggleButtons4, function(toggleButton) {
+            // show toggle more buttons
+            toggleButton.removeAttribute('hidden');
+
+            // add listener for each button
+            toggleButton.addEventListener('click', function () {
+
+                fullTextWrapper = this.parentElement.querySelector('.fulltext4');
+                toggleButtonText4 = this.querySelector('.text');
+
+                // change attributes and text if full text is shown/hidden
+                if (!fullTextWrapper.hasAttribute('hidden')) {
+                    toggleButtonText4.innerText = 'Show Courses';
+                    fullTextWrapper.setAttribute('hidden', true);
+                    toggleButton.setAttribute('aria-expanded', false);
+                } else {
+                    toggleButtonText4.innerText = 'Hide Courses';
+                    fullTextWrapper.removeAttribute('hidden');
+                    toggleButton.setAttribute('aria-expanded', true);
+                }
+            });
+        });
+    }
+
+    //show 'Bachelor Courses'
+    if ('querySelector' in document &&
+        'addEventListener' in window) {
+
+        var toggleButtons5 = document.querySelectorAll('.toggle-content5');
+        var fullTextWrappers5 = document.querySelectorAll('.fulltext5');
+        var fullText5;
+        var toggleButtonText5;
+
+
+        [].forEach.call(fullTextWrappers5, function(fullTextWrapper5) {
+            // hide all full text on load
+            fullTextWrapper5.setAttribute('hidden', true);
+        });
+
+        [].forEach.call(toggleButtons5, function(toggleButton) {
+            // show toggle more buttons
+            toggleButton.removeAttribute('hidden');
+
+            // add listener for each button
+            toggleButton.addEventListener('click', function () {
+
+                fullTextWrapper = this.parentElement.querySelector('.fulltext5');
+                toggleButtonText5 = this.querySelector('.text');
+
+                // change attributes and text if full text is shown/hidden
+                if (!fullTextWrapper.hasAttribute('hidden')) {
+                    toggleButtonText5.innerText = 'Show Relevant Courses';
+                    fullTextWrapper.setAttribute('hidden', true);
+                    toggleButton.setAttribute('aria-expanded', false);
+                } else {
+                    toggleButtonText5.innerText = 'Hide Courses';
+                    fullTextWrapper.removeAttribute('hidden');
+                    toggleButton.setAttribute('aria-expanded', true);
+                }
+            });
+        });
+    }
 
 })(jQuery);
