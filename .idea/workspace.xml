@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f18a7caa-ec46-4533-8b4a-988243c6282b" name="Default Changelist" comment="" />
+    <list default="true" id="f18a7caa-ec46-4533-8b4a-988243c6282b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,16 +15,16 @@
     <session id="-561386300">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="2" />
-          <entry key="html" value="136" />
-          <entry key="txt" value="40" />
+          <entry key="css" value="4" />
+          <entry key="html" value="174" />
+          <entry key="txt" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="2" />
-          <entry key="HTML" value="136" />
-          <entry key="PLAIN_TEXT" value="40" />
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="174" />
+          <entry key="PLAIN_TEXT" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
@@ -33,13 +36,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="1" />
+          <entry key="css" value="2" />
           <entry key="html" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="1" />
+          <entry key="CSS" value="2" />
           <entry key="HTML" value="2" />
         </counts>
       </usages-collector>
@@ -79,8 +82,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="44" column="16" lean-forward="true" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+            <state relative-caret-position="300">
+              <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="4675" selection-start-line="4675" selection-end-line="4675" />
             </state>
           </provider>
         </entry>
@@ -148,6 +160,7 @@
       <find>Show Less</find>
       <find>pdf</find>
       <find>stack</find>
+      <find>label</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\brandon.hessler\Documents\website\CallSign-Filter.github.io</dir>
@@ -157,7 +170,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="5dbab18a-79e7-4557-908f-fe12dca78410" />
+    <option name="defaultAccountId" value="5b21f660-ec9a-4ce9-8cc7-7004d2c8db38" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -172,7 +185,6 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/assets/js/toggleText.js" />
         <option value="$PROJECT_DIR$/assets/js/main.js" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/education.html" />
         <option value="$PROJECT_DIR$/experience.html" />
@@ -180,6 +192,7 @@
         <option value="$PROJECT_DIR$/not_found.html" />
         <option value="$PROJECT_DIR$/publications.html" />
         <option value="$PROJECT_DIR$/assets/css/font-awesome.min.css" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -477,14 +490,50 @@
       <option name="project" value="LOCAL" />
       <updated>1539932690725</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="fix tooltip">
+      <created>1544287581351</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1544287581351</updated>
+    </task>
+    <task id="LOCAL-00024" summary="fix tooltip">
+      <created>1544287720304</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1544287720304</updated>
+    </task>
+    <task id="LOCAL-00025" summary="fix tooltip">
+      <created>1544288078695</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1544288078695</updated>
+    </task>
+    <task id="LOCAL-00026" summary="fix tooltip">
+      <created>1544288338840</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1544288338840</updated>
+    </task>
+    <task id="LOCAL-00027" summary="fix tooltip">
+      <created>1544288859868</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1544288859868</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23379000" />
+    <option name="totallyTimeSpent" value="25163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="29" y="4" width="1447" height="808" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16170213" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -536,7 +585,8 @@
     <MESSAGE value="dead link crop and better 404 page" />
     <MESSAGE value="cleanup and adding gitignore" />
     <MESSAGE value="footer and send message form button" />
-    <option name="LAST_COMMIT_MESSAGE" value="footer and send message form button" />
+    <MESSAGE value="fix tooltip" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix tooltip" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/mom-and-son.jpg">
@@ -555,13 +605,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/images/30th.jpeg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="76" column="16" lean-forward="true" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -632,10 +675,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4675" selection-start-line="4675" selection-end-line="4675" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="44" column="16" lean-forward="true" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+        <state relative-caret-position="300">
+          <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
         </state>
       </provider>
     </entry>
