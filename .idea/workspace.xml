@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f18a7caa-ec46-4533-8b4a-988243c6282b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/family.html" beforeDir="false" afterPath="$PROJECT_DIR$/family.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HesslerResume.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,36 +17,69 @@
     <session id="-561386300">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="23" />
-          <entry key="txt" value="3" />
+          <entry key="css" value="2" />
+          <entry key="html" value="136" />
+          <entry key="txt" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="23" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="136" />
+          <entry key="PLAIN_TEXT" value="40" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/education.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7" />
+            <state relative-caret-position="3200">
+              <caret line="160" column="22" selection-end-line="170" />
+            </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/family.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="78" column="116" selection-start-line="78" selection-start-column="116" selection-end-line="78" selection-end-column="116" />
+            <state relative-caret-position="4880">
+              <caret line="244" column="22" selection-end-line="249" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#15864#15870#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/not_found.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2460">
+              <caret line="123" column="7" lean-forward="true" selection-end-line="125" />
             </state>
           </provider>
         </entry>
@@ -51,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/experience.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="55" column="79" lean-forward="true" selection-start-line="55" selection-start-column="79" selection-end-line="55" selection-end-column="79" />
+            <state relative-caret-position="6060">
+              <caret line="303" column="18" lean-forward="true" selection-end-line="309" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#article#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#h3#0;n#article#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -87,6 +123,24 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="50" column="51" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="3" column="16158" selection-start-line="3" selection-start-column="16153" selection-end-line="3" selection-end-column="16158" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/util.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -99,7 +153,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
+            <state relative-caret-position="6580">
               <caret line="333" selection-start-line="333" selection-end-line="333" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -111,8 +165,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/publications.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="163" selection-start-line="163" selection-end-line="163" />
+            <state relative-caret-position="9120">
+              <caret line="456" selection-end-line="456" />
             </state>
           </provider>
         </entry>
@@ -138,6 +192,9 @@
       <find>htaccess</find>
       <find>lar</find>
       <find>3-s</find>
+      <find>Show Less</find>
+      <find>pdf</find>
+      <find>stack</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\brandon.hessler\Documents\website\CallSign-Filter.github.io</dir>
@@ -160,13 +217,14 @@
         <option value="$PROJECT_DIR$/assets/js/toggleText.js" />
         <option value="$PROJECT_DIR$/assets/js/main.js" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/education.html" />
-        <option value="$PROJECT_DIR$/not_found.html" />
-        <option value="$PROJECT_DIR$/publications.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/education.html" />
         <option value="$PROJECT_DIR$/experience.html" />
         <option value="$PROJECT_DIR$/family.html" />
+        <option value="$PROJECT_DIR$/not_found.html" />
+        <option value="$PROJECT_DIR$/publications.html" />
+        <option value="$PROJECT_DIR$/assets/css/font-awesome.min.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -182,10 +240,10 @@
     </layout>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="214" />
-    <option name="y" value="34" />
-    <option name="width" value="1631" />
-    <option name="height" value="979" />
+    <option name="x" value="36" />
+    <option name="y" value="5" />
+    <option name="width" value="1809" />
+    <option name="height" value="1010" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -200,6 +258,17 @@
               <item name="CallSign-Filter.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="CallSign-Filter.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CallSign-Filter.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CallSign-Filter.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CallSign-Filter.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CallSign-Filter.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -211,6 +280,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="soft&#9;ACTION&#9;EditorToggleUseSoftWraps" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -219,10 +289,11 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="database.main" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Brandon\WebstormProjects\CallSign-Filter.github.io" />
       <recent name="C:\Users\brandon.hessler\Documents\website\CallSign-Filter.github.io\images" />
     </key>
   </component>
@@ -286,13 +357,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="feeb08c0-5339-49a9-9bcd-d04e437e609e" name="Default" comment="" />
+      <changelist id="f18a7caa-ec46-4533-8b4a-988243c6282b" name="Default Changelist" comment="" />
       <created>1539384788783</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539384788783</updated>
       <workItem from="1539384792187" duration="8610000" />
       <workItem from="1539819359550" duration="10248000" />
+      <workItem from="1539923607069" duration="1665000" />
+      <workItem from="1544286015074" duration="609000" />
     </task>
     <task id="LOCAL-00001" summary="fixed social media links">
       <created>1539385110273</created>
@@ -434,17 +507,31 @@
       <option name="project" value="LOCAL" />
       <updated>1539891967622</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="footer and send message form button">
+      <created>1539923818475</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1539923818475</updated>
+    </task>
+    <task id="LOCAL-00022" summary="footer and send message form button">
+      <created>1539932690725</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1539932690725</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19624000" />
+    <option name="totallyTimeSpent" value="23188000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="29" y="4" width="1447" height="808" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18043622" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16170213" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -458,7 +545,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31703705" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="IDEtalk Messages" order="10" />
@@ -493,16 +580,14 @@
     <MESSAGE value="dead link" />
     <MESSAGE value="dead link crop and better 404 page" />
     <MESSAGE value="cleanup and adding gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="cleanup and adding gitignore" />
+    <MESSAGE value="footer and send message form button" />
+    <option name="LAST_COMMIT_MESSAGE" value="footer and send message form button" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/mom-and-son.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/jquery.scrolly.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -510,13 +595,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/toggleText.js" />
-    <entry file="file://$PROJECT_DIR$/assets/js/util.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -530,35 +608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="333" selection-start-line="333" selection-end-line="333" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/not_found.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="44" column="30" lean-forward="true" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/education.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publications.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="163" selection-start-line="163" selection-end-line="163" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -566,17 +615,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/education.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="215" column="38" lean-forward="true" selection-start-line="215" selection-start-column="38" selection-end-line="215" selection-end-column="38" />
+        <state relative-caret-position="3200">
+          <caret line="160" column="22" selection-end-line="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/family.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4880">
+          <caret line="244" column="22" selection-end-line="249" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/not_found.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2460">
+          <caret line="123" column="7" lean-forward="true" selection-end-line="125" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/experience.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="55" column="79" lean-forward="true" selection-start-line="55" selection-start-column="79" selection-end-line="55" selection-end-column="79" />
+        <state relative-caret-position="6060">
+          <caret line="303" column="18" lean-forward="true" selection-end-line="309" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#article#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#h3#0;n#article#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -610,14 +676,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/family.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/util.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="78" column="116" selection-start-line="78" selection-start-column="116" selection-end-line="78" selection-end-column="116" />
+        <state relative-caret-position="580">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6580">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
           <folding>
-            <element signature="n#style#0;n#div#1;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#15864#15870#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9120">
+          <caret line="456" selection-end-line="456" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="3" column="16158" selection-start-line="3" selection-start-column="16153" selection-end-line="3" selection-end-column="16158" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="50" column="51" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="51" />
         </state>
       </provider>
     </entry>
