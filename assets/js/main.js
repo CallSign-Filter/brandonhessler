@@ -352,8 +352,6 @@
         });
     }
 
-
-// cut the mustard
     //Show 'Software experience'
     if ('querySelector' in document &&
         'addEventListener' in window) {
