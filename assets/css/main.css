@@ -4666,14 +4666,14 @@ input, select, textarea {
 
 
 	 /* Tooltip container */
- .tooltip {
+ tooltip {
 	 position: relative;
 	 display: inline-block;
 	 border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
  }
 
 /* Tooltip text */
-.tooltip .tooltiptext {
+tooltip tooltiptext {
 	visibility: hidden;
 	width: 120px;
 	background-color: black;
