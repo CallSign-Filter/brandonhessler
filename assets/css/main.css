@@ -3297,10 +3297,6 @@ input, select, textarea {
 		z-index: 1;
 		min-height: 100vh;
 	}
-		p {
-			color: #000000;
-			text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
-		}
 
 		#intro input, #intro select, #intro textarea {
 			color: #ffffff;
@@ -3322,6 +3318,11 @@ input, select, textarea {
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
 			color: #ffffff;
+			text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+		}
+
+		#intro p {
+			color: #0e00ab;
 		}
 
 		#intro blockquote {

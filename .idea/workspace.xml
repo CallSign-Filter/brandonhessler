@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f18a7caa-ec46-4533-8b4a-988243c6282b" name="Default Changelist" comment="" />
+    <list default="true" id="f18a7caa-ec46-4533-8b4a-988243c6282b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,8 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="3302" column="8" selection-start-line="3302" selection-start-column="8" selection-end-line="3302" selection-end-column="8" />
+            <state relative-caret-position="274">
+              <caret line="3321" column="9" lean-forward="true" selection-start-line="3321" selection-start-column="9" selection-end-line="3321" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -143,6 +145,7 @@
       <find>pdf</find>
       <find>stack</find>
       <find>label</find>
+      <find>intro</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\brandon.hessler\Documents\website\CallSign-Filter.github.io</dir>
@@ -286,7 +289,7 @@
       <workItem from="1539923607069" duration="1665000" />
       <workItem from="1544286015074" duration="609000" />
       <workItem from="1545233445606" duration="870000" />
-      <workItem from="1545234412036" duration="822000" />
+      <workItem from="1545234412036" duration="1067000" />
     </task>
     <task id="LOCAL-00001" summary="fixed social media links">
       <created>1539385110273</created>
@@ -481,10 +484,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26903000" />
+    <option name="totallyTimeSpent" value="27148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="36" y="5" width="1809" height="1010" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14979988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -682,8 +686,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="3302" column="8" selection-start-line="3302" selection-start-column="8" selection-end-line="3302" selection-end-column="8" />
+        <state relative-caret-position="274">
+          <caret line="3321" column="9" lean-forward="true" selection-start-line="3321" selection-start-column="9" selection-end-line="3321" selection-end-column="9" />
         </state>
       </provider>
     </entry>
