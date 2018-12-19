@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f18a7caa-ec46-4533-8b4a-988243c6282b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,20 +69,20 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
+            <state relative-caret-position="-504">
               <caret line="29" column="10" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="3320" column="82" lean-forward="true" selection-start-line="3320" selection-start-column="82" selection-end-line="3320" selection-end-column="82" />
+            <state relative-caret-position="1549">
+              <caret line="3723" column="42" selection-start-line="3723" selection-start-column="42" selection-end-line="3723" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -146,6 +147,7 @@
       <find>stack</find>
       <find>label</find>
       <find>intro</find>
+      <find>nav</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\brandon.hessler\Documents\website\CallSign-Filter.github.io</dir>
@@ -224,7 +226,7 @@
     <property name="SearchEverywhereHistoryKey" value="soft&#9;ACTION&#9;EditorToggleUseSoftWraps" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545234311353" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545238015373" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -289,7 +291,7 @@
       <workItem from="1539923607069" duration="1665000" />
       <workItem from="1544286015074" duration="609000" />
       <workItem from="1545233445606" duration="870000" />
-      <workItem from="1545234412036" duration="1308000" />
+      <workItem from="1545234412036" duration="2776000" />
     </task>
     <task id="LOCAL-00001" summary="fixed social media links">
       <created>1539385110273</created>
@@ -484,7 +486,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27389000" />
+    <option name="totallyTimeSpent" value="28857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="36" y="5" width="1809" height="1010" extended-state="0" />
@@ -677,17 +679,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="29" column="10" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        <state relative-caret-position="1549">
+          <caret line="3723" column="42" selection-start-line="3723" selection-start-column="42" selection-end-line="3723" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="3320" column="82" lean-forward="true" selection-start-line="3320" selection-start-column="82" selection-end-line="3320" selection-end-column="82" />
+        <state relative-caret-position="-504">
+          <caret line="29" column="10" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
         </state>
       </provider>
     </entry>
