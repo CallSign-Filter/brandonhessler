@@ -3317,12 +3317,13 @@ input, select, textarea {
 		}
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
-			color: #ffffff;
-			text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+			color: #005c0b;
+			text-shadow: 2px 0 0 #000, 0 -2px 0 #000, 0 2px 0 #000, -2px 0 0 #000;
+			opacity: 0.8;
 		}
 
 		#intro p {
-			color: #0e00ab;
+			color: #005c0b;
 		}
 
 		#intro blockquote {
