@@ -3297,6 +3297,10 @@ input, select, textarea {
 		z-index: 1;
 		min-height: 100vh;
 	}
+		p {
+			color: #fff;
+			text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+		}
 
 		#intro input, #intro select, #intro textarea {
 			color: #ffffff;
