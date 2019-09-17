@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f18a7caa-ec46-4533-8b4a-988243c6282b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantasy.html" beforeDir="false" afterPath="$PROJECT_DIR$/fantasy.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,12 +46,6 @@
     <layout place="tools.popupGrunt">
       <scroll-view-position x="0" y="0" />
     </layout>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="35" />
-    <option name="y" value="5" />
-    <option name="width" value="1450" />
-    <option name="height" value="810" />
   </component>
   <component name="ProjectId" id="1QwobQ79TA9JOQsqmIOJ1yW9lGW" />
   <component name="PropertiesComponent">
@@ -146,7 +141,7 @@
       <workItem from="1549182054038" duration="61000" />
       <workItem from="1549182124472" duration="7000" />
       <workItem from="1550383897515" duration="145000" />
-      <workItem from="1568691092275" duration="1717000" />
+      <workItem from="1568691092275" duration="3516000" />
     </task>
     <task id="LOCAL-00001" summary="fixed social media links">
       <created>1539385110273</created>
