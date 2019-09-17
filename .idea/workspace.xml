@@ -22,23 +22,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fallow.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="68" selection-end-column="26" />
-              <folding>
-                <element signature="n#style#0;n#h2#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#3236#3242#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/experience.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1206">
+            <state relative-caret-position="485">
               <caret line="67" column="40" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="40" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#article#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -72,16 +58,6 @@
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/fallow/2.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/fallow/4.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -141,12 +117,13 @@
       <scroll-view-position x="0" y="0" />
     </layout>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="35" />
     <option name="y" value="5" />
-    <option name="width" value="1448" />
-    <option name="height" value="808" />
+    <option name="width" value="1450" />
+    <option name="height" value="810" />
   </component>
+  <component name="ProjectId" id="1QwobQ79TA9JOQsqmIOJ1yW9lGW" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollToSource ProjectPane="true" />
@@ -154,6 +131,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,22 +149,16 @@
               <item name="CallSign-Filter.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CallSign-Filter.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CallSign-Filter.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="fallow" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="soft&#9;ACTION&#9;EditorToggleUseSoftWraps" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -234,6 +206,7 @@
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
@@ -263,6 +236,9 @@
       <workItem from="1548659806823" duration="119000" />
       <workItem from="1548659952730" duration="552000" />
       <workItem from="1548736618074" duration="1205000" />
+      <workItem from="1549182054038" duration="61000" />
+      <workItem from="1549182124472" duration="7000" />
+      <workItem from="1550383897515" duration="145000" />
     </task>
     <task id="LOCAL-00001" summary="fixed social media links">
       <created>1539385110273</created>
@@ -457,13 +433,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34669000" />
+    <option name="totallyTimeSpent" value="34882000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="35" y="5" width="1448" height="808" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15850145" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12147651" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -477,7 +453,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31555554" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22946176" />
       <window_info anchor="bottom" id="Statistic" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -582,6 +558,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/fallow/2.jpg" />
+    <entry file="file://$PROJECT_DIR$/fallow.html" />
+    <entry file="file://$PROJECT_DIR$/images/fallow/4.jpg" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -591,7 +570,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/experience.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1206">
+        <state relative-caret-position="485">
           <caret line="67" column="40" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#article#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -622,24 +601,6 @@
             <element signature="n#style#0;n#dt#3;n#dl#2;n#article#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#dt#3;n#dl#2;n#article#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#button#2;n#article#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/fallow/2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/fallow/4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fallow.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="68" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#h2#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3236#3242#0" expanded="true" />
           </folding>
         </state>
       </provider>
