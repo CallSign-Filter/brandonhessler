@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f18a7caa-ec46-4533-8b4a-988243c6282b" name="Default Changelist" comment="" />
+    <list default="true" id="f18a7caa-ec46-4533-8b4a-988243c6282b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/fantasy2017.html" beforeDir="false" afterPath="$PROJECT_DIR$/fantasy2017.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +47,11 @@
     </layout>
   </component>
   <component name="ProjectId" id="1QwobQ79TA9JOQsqmIOJ1yW9lGW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="soft&#9;ACTION&#9;EditorToggleUseSoftWraps" />
@@ -141,7 +147,7 @@
       <workItem from="1550383897515" duration="145000" />
       <workItem from="1568691092275" duration="4649000" />
       <workItem from="1569386737099" duration="868000" />
-      <workItem from="1570078156132" duration="1449000" />
+      <workItem from="1570078156132" duration="1907000" />
     </task>
     <task id="LOCAL-00001" summary="fixed social media links">
       <created>1539385110273</created>
@@ -352,6 +358,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="fixed social media links" />
     <MESSAGE value="fix youtube" />
     <MESSAGE value="first attempt at slide show" />
