@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f18a7caa-ec46-4533-8b4a-988243c6282b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fantasy2017.html" beforeDir="false" afterPath="$PROJECT_DIR$/fantasy2017.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,23 +18,6 @@
         <option value="HTML File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>$navPanel</find>
-      <find>htaccess</find>
-      <find>lar</find>
-      <find>3-s</find>
-      <find>Show Less</find>
-      <find>pdf</find>
-      <find>stack</find>
-      <find>label</find>
-      <find>intro</find>
-      <find>nav</find>
-    </findStrings>
-    <dirStrings>
-      <dir>C:\Users\brandon.hessler\Documents\website\CallSign-Filter.github.io</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -147,7 +131,7 @@
       <workItem from="1550383897515" duration="145000" />
       <workItem from="1568691092275" duration="4649000" />
       <workItem from="1569386737099" duration="868000" />
-      <workItem from="1570078156132" duration="1907000" />
+      <workItem from="1570078156132" duration="2619000" />
     </task>
     <task id="LOCAL-00001" summary="fixed social media links">
       <created>1539385110273</created>
