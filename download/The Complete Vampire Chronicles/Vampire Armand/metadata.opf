@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3031</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b65e7a90-2354-4ecb-9f01-de8064b750cb</dc:identifier>
+        <dc:title>Vampire Armand</dc:title>
+        <dc:creator opf:file-as="Rice, Anne" opf:role="aut">Rice, Anne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.5) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-10-09T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;In the latest installment of The Vampire Chronicles, Anne Rice summons up dazzling worlds to bring us the story of Armand--eternally young, with the face of a Botticelli angel. Armand, who first appeared in all his dark glory more than twenty years ago in the now-classicInterview with the Vampire, the first of The Vampire Chronicles, the novel that established its author worldwide as a magnificent storyteller and creator of magical realms. Now, we go with Armand across the centuries to the Kiev Rus of his boyhood--a ruined city under Mongol dominion--and to ancient Constantinople, where Tartar raiders sell him into slavery. And in a magnificent palazzo in the Venice of the Renaissance we see him emotionally and intellectually in thrall to the great vampire Marius, who masquerades among humankind as a mysterious, reclusive painter and who will bestow upon Armand the gift of vampiric blood. As the novel races to its climax, moving through scenes of luxury and elegance, of ambush, fire, and devil worship to nineteenth-century Paris and today's New Orleans, we see its eternally vulnerable and romantic hero forced to choose between his twilight immortality and the salvation of his immortal soul.&lt;/p&gt;</dc:description>
+        <dc:publisher>Alfred A. Knopf</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="Vampire Chronicles" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-29T18:21:21+00:00" name="calibre:timestamp"/>
+        <meta content="Vampire Armand" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
