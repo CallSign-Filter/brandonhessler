@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f18a7caa-ec46-4533-8b4a-988243c6282b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,22 +15,22 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="4" />
-          <entry key="html" value="174" />
-          <entry key="txt" value="51" />
+          <entry key="html" value="237" />
+          <entry key="txt" value="85" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="4" />
-          <entry key="HTML" value="174" />
-          <entry key="PLAIN_TEXT" value="51" />
+          <entry key="HTML" value="237" />
+          <entry key="PLAIN_TEXT" value="85" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -55,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/education.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3200">
-              <caret line="173" column="22" selection-end-line="183" />
+            <state relative-caret-position="900">
+              <caret line="45" column="13" selection-start-line="40" selection-start-column="8" selection-end-line="45" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -64,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/family.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4880">
-              <caret line="251" column="22" selection-end-line="256" />
+            <state relative-caret-position="900">
+              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -73,17 +72,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/experience.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6060">
-              <caret line="310" column="18" selection-end-line="316" />
+            <state relative-caret-position="940">
+              <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+            <state relative-caret-position="1080">
+              <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="57" selection-end-column="172" />
             </state>
           </provider>
         </entry>
@@ -91,7 +90,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
+            <state relative-caret-position="93500">
               <caret line="4675" selection-start-line="4675" selection-end-line="4675" />
             </state>
           </provider>
@@ -100,7 +99,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
+            <state relative-caret-position="60">
               <caret line="3" column="16158" selection-start-line="3" selection-start-column="16153" selection-end-line="3" selection-end-column="16158" />
             </state>
           </provider>
@@ -127,11 +126,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/publications.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9120">
-              <caret line="463" selection-end-line="463" />
+            <state relative-caret-position="203">
+              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -186,14 +185,14 @@
         <option value="$PROJECT_DIR$/assets/js/toggleText.js" />
         <option value="$PROJECT_DIR$/assets/js/main.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/education.html" />
-        <option value="$PROJECT_DIR$/experience.html" />
-        <option value="$PROJECT_DIR$/family.html" />
         <option value="$PROJECT_DIR$/not_found.html" />
-        <option value="$PROJECT_DIR$/publications.html" />
         <option value="$PROJECT_DIR$/assets/css/font-awesome.min.css" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/education.html" />
+        <option value="$PROJECT_DIR$/experience.html" />
+        <option value="$PROJECT_DIR$/family.html" />
+        <option value="$PROJECT_DIR$/publications.html" />
       </list>
     </option>
   </component>
@@ -220,6 +219,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,22 +227,10 @@
               <item name="CallSign-Filter.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="CallSign-Filter.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CallSign-Filter.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CallSign-Filter.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CallSign-Filter.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CallSign-Filter.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
@@ -335,6 +323,7 @@
       <workItem from="1539819359550" duration="10248000" />
       <workItem from="1539923607069" duration="1665000" />
       <workItem from="1544286015074" duration="609000" />
+      <workItem from="1585105980833" duration="92000" />
     </task>
     <task id="LOCAL-00001" summary="fixed social media links">
       <created>1539385110273</created>
@@ -525,17 +514,58 @@
       <option name="project" value="LOCAL" />
       <updated>1544288859868</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="fix tooltip">
+      <created>1544288962716</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1544288962716</updated>
+    </task>
+    <task id="LOCAL-00029" summary="fix tooltip">
+      <created>1544289299562</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1544289299562</updated>
+    </task>
+    <task id="LOCAL-00030" summary="fix tooltip">
+      <created>1544289402306</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1544289402306</updated>
+    </task>
+    <task id="LOCAL-00031" summary="fix tooltip">
+      <created>1544289539117</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1544289539117</updated>
+    </task>
+    <task id="LOCAL-00032" summary="added tooltips to all of the pages">
+      <created>1544289709942</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1544289709942</updated>
+    </task>
+    <task id="LOCAL-00033" summary="added tooltips to all of the pages">
+      <created>1544289757674</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1544289757674</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25163000" />
+    <option name="totallyTimeSpent" value="26085000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="29" y="4" width="1447" height="808" extended-state="0" />
-    <editor active="true" />
+    <frame x="36" y="5" width="1809" height="1010" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16170213" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16149068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -549,7 +579,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31703705" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31621003" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="IDEtalk Messages" order="10" />
@@ -586,7 +616,8 @@
     <MESSAGE value="cleanup and adding gitignore" />
     <MESSAGE value="footer and send message form button" />
     <MESSAGE value="fix tooltip" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix tooltip" />
+    <MESSAGE value="added tooltips to all of the pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="added tooltips to all of the pages" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/mom-and-son.jpg">
@@ -613,31 +644,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/not_found.html" />
     <entry file="file://$PROJECT_DIR$/education.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3200">
-          <caret line="173" column="22" selection-end-line="183" />
+        <state relative-caret-position="900">
+          <caret line="45" column="13" selection-start-line="40" selection-start-column="8" selection-end-line="45" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/family.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4880">
-          <caret line="251" column="22" selection-end-line="256" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/not_found.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2460">
-          <caret line="123" column="7" lean-forward="true" selection-end-line="125" />
+        <state relative-caret-position="900">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/experience.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6060">
-          <caret line="310" column="18" selection-end-line="316" />
+        <state relative-caret-position="940">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="57" selection-end-column="172" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93500">
+          <caret line="4675" selection-start-line="4675" selection-end-line="4675" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="16158" selection-start-line="3" selection-start-column="16153" selection-end-line="3" selection-end-column="16158" />
         </state>
       </provider>
     </entry>
@@ -658,34 +704,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/publications.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9120">
-          <caret line="463" selection-end-line="463" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
+    <entry file="file://$PROJECT_DIR$/publications.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="3" column="16158" selection-start-line="3" selection-start-column="16153" selection-end-line="3" selection-end-column="16158" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4675" selection-start-line="4675" selection-end-line="4675" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+        <state relative-caret-position="203">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
         </state>
       </provider>
     </entry>
