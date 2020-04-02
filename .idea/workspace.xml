@@ -4,12 +4,12 @@
     <list default="true" id="f18a7caa-ec46-4533-8b4a-988243c6282b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FUSProjectUsageTrigger">
     <session id="-561386300">
       <usages-collector id="statistics.file.extensions.edit">
@@ -142,6 +142,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> 8307cf0c674da957ac95769a47f2472fbb7f4782
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -150,24 +152,10 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>$navPanel</find>
-      <find>htaccess</find>
-      <find>lar</find>
-      <find>3-s</find>
-      <find>Show Less</find>
-      <find>pdf</find>
-      <find>stack</find>
-      <find>label</find>
-    </findStrings>
-    <dirStrings>
-      <dir>C:\Users\brandon.hessler\Documents\website\CallSign-Filter.github.io</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="5b21f660-ec9a-4ce9-8cc7-7004d2c8db38" />
   </component>
@@ -202,17 +190,18 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+=======
+>>>>>>> 8307cf0c674da957ac95769a47f2472fbb7f4782
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
       <scroll-view-position x="0" y="0" />
     </layout>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="36" />
-    <option name="y" value="5" />
-    <option name="width" value="1809" />
-    <option name="height" value="1010" />
+  <component name="ProjectId" id="1QwobQ79TA9JOQsqmIOJ1yW9lGW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollToSource ProjectPane="true" />
@@ -234,13 +223,31 @@
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
+=======
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+>>>>>>> 8307cf0c674da957ac95769a47f2472fbb7f4782
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="soft&#9;ACTION&#9;EditorToggleUseSoftWraps" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545244740022" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -250,64 +257,53 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Brandon\WebstormProjects\CallSign-Filter.github.io" />
+      <recent name="C:\Users\Brandon\IdeaProjects\CallSign-Filter.github.io" />
+      <recent name="C:\Users\Brandon\IdeaProjects\CallSign-Filter.github.io\download" />
+      <recent name="C:\Users\Brandon\IdeaProjects\CallSign-Filter.github.io\images" />
       <recent name="C:\Users\brandon.hessler\Documents\website\CallSign-Filter.github.io\images" />
+      <recent name="C:\Users\brandon.hessler\Documents\website\CallSign-Filter.github.io" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Brandon\IdeaProjects\CallSign-Filter.github.io\images" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
+      <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
+      <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -323,7 +319,24 @@
       <workItem from="1539819359550" duration="10248000" />
       <workItem from="1539923607069" duration="1665000" />
       <workItem from="1544286015074" duration="609000" />
+<<<<<<< HEAD
       <workItem from="1585105980833" duration="92000" />
+=======
+      <workItem from="1545233445606" duration="870000" />
+      <workItem from="1545234412036" duration="4312000" />
+      <workItem from="1548658791508" duration="599000" />
+      <workItem from="1548659806823" duration="119000" />
+      <workItem from="1548659952730" duration="552000" />
+      <workItem from="1548736618074" duration="1205000" />
+      <workItem from="1549182054038" duration="61000" />
+      <workItem from="1549182124472" duration="7000" />
+      <workItem from="1550383897515" duration="145000" />
+      <workItem from="1568691092275" duration="4649000" />
+      <workItem from="1569386737099" duration="868000" />
+      <workItem from="1570078156132" duration="3691000" />
+      <workItem from="1570169481180" duration="663000" />
+      <workItem from="1575530872723" duration="1873000" />
+>>>>>>> 8307cf0c674da957ac95769a47f2472fbb7f4782
     </task>
     <task id="LOCAL-00001" summary="fixed social media links">
       <created>1539385110273</created>
@@ -559,6 +572,7 @@
     <option name="localTasksCounter" value="34" />
     <servers />
   </component>
+<<<<<<< HEAD
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="26085000" />
   </component>
@@ -598,13 +612,26 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
+=======
+>>>>>>> 8307cf0c674da957ac95769a47f2472fbb7f4782
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="fixed social media links" />
     <MESSAGE value="fix youtube" />
     <MESSAGE value="first attempt at slide show" />
@@ -619,6 +646,7 @@
     <MESSAGE value="added tooltips to all of the pages" />
     <option name="LAST_COMMIT_MESSAGE" value="added tooltips to all of the pages" />
   </component>
+<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/mom-and-son.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -714,6 +742,21 @@
         </state>
       </provider>
     </entry>
+=======
+  <component name="WindowStateProjectService">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1578548548398">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1578548548398" />
+    <state x="277" y="74" key="SettingsEditor" timestamp="1578029825375">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="74" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578029825375" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1578028873576">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.864@0.0.1536.864" timestamp="1578028873576" />
+>>>>>>> 8307cf0c674da957ac95769a47f2472fbb7f4782
   </component>
   <component name="masterDetails">
     <states>
